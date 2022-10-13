@@ -1,6 +1,6 @@
 # HacktoberFest 2022
 
-![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
   - Fork the repository
   - Clone your fork and Create a new branch
