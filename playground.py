@@ -26,21 +26,6 @@ def blockshaped(arr, nrows, ncols):
                .swapaxes(1,2)
                .reshape(-1, nrows, ncols))
 
-"""
-### Method to find prime numbers
-"""
-
-def SieveOfEratosthenes(num):
-    prime = [True for i in range(num+1)]
-    p = 2
-    while (p * p <= num):
-        if (prime[p] == True):
-            # Updating all multiples of p
-            for i in range(p * p, num+1, p):
-                prime[i] = False
-        p += 1
-    
-    return prime
 
 
 """
